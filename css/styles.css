@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #19a2ae;
+}
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 375px;
+  border-radius: 10px;
+  background-image: url("/images/bg-pattern-card.svg");
+}
+
+.card {
+  text-align: center;
+}
+
+.portrait {
+  border-radius: 50px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
+}
+
+.protrait {
+  border-radius: 50px;
+}
+
+/*# sourceMappingURL=styles.css.map */
